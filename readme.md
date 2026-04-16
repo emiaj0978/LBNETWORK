@@ -1,6 +1,6 @@
 ## 📌 TRELLO
-Más info en [mi tablero de trello](https://trello.com/b/6E2Fz6ky/lbnetwork)
-![TRELLO](https://github.com/emiaj0978/LBNETWORK/blob/main/frontend/image%20copy.png)
+Más info en [mi tablero de trello](https://trello.com/b/ZQ6N2ybV/lbnetwork)
+![TRELLO](https://github.com/DanielBarbaran/LBNETWORK/blob/main/frontend/Captura12.PNG)
 
 ---
 
